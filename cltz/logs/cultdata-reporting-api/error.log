@@ -1,0 +1,3 @@
+2025-11-09 13:11:45.042 ERROR 8372 --- [http-nio-8084-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper   : The column name numberOfRoomNights was not found in this ResultSet.
+2025-11-09 13:14:21.474 ERROR 5932 --- [http-nio-8084-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper   : The column name gbv was not found in this ResultSet.
+2025-11-09 13:18:11.496 ERROR 8312 --- [http-nio-8084-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper   : The column name bookingNumberOfRoomNights was not found in this ResultSet.
